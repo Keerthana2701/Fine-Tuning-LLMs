@@ -1,0 +1,10 @@
+[
+  {
+    "input": "Summarize the following legal clause.",
+    "output": "This clause describes the conditions under which the contract is terminated."
+  },
+  {
+    "input": "Translate: 'Hello, how are you?' to French.",
+    "output": "Bonjour, comment ça va ?"
+  }
+]
